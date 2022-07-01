@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # CREATE MYSQL DATABASE
 
 echo "We need to set up a Database for you."
